@@ -1,5 +1,6 @@
 # Dette er min hjemmeside
 
-Det er plavet vha. mark down
+Det er lavet vha. mark down
 
-Dette er et link [Link her]google.com
+Dette er et link 
+[Link her]google.com
