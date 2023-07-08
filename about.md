@@ -1,5 +1,5 @@
 ---
-permalink: /JS.html
+permalink: /about.html
 ---
 
 # Dominoeffekten
