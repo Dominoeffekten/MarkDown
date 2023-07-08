@@ -1,6 +1,5 @@
 ---
 permalink: /index.html
-output: html_document
 ---
 
 # Dominoeffekten
