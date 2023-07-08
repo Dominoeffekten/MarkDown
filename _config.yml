@@ -4,6 +4,14 @@ description: Bookmark this to keep an eye on my project updates!
 domain: Dominoeffekten.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://Dominoeffekten.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
+navbar:
+  title: "Dominoeffektens"
+  left:
+    - text: "Forside"
+      href: index.html
+    - text: "Om mig"
+      href: about.html
+      
 output: 
   html_document:
     toc: true
