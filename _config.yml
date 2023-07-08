@@ -5,4 +5,3 @@ domain: Dominoeffekten.github.io       # if you want to force HTTPS, specify the
 url: https://Dominoeffekten.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 theme: pink-theme
-remote_theme: pages-themes/midnight@v0.2.0
