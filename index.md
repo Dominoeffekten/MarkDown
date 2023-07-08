@@ -2,9 +2,12 @@
 permalink: /index.html
 ---
 
-# Dette er min hjemmeside
+# Dominoeffekten
 
-Det er lavet vha. mark down
+## Forside
 
-Dette er et link 
-[Link her]google.com
+Siden formål er at lære markdown
+
+> mark down
+
+Dette er et link [Link her](google.com)
