@@ -6,9 +6,9 @@ url: https://Dominoeffekten.github.io  # the base hostname and protocol for your
 
 nav:
   - page: "Forside"
-  permalink: index.html
+    permalink: index.html
   - page: "Om mig"
-  permalink: about.html
+    permalink: about.html
       
 output: 
   html_document:
