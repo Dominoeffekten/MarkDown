@@ -8,9 +8,9 @@ navbar:
   title: "Dominoeffektens"
   left:
     - text: "Forside"
-      href: index.html
+      permalink: index.html
     - text: "Om mig"
-      href: about.html
+      permalink: about.html
       
 output: 
   html_document:
