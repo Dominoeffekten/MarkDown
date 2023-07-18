@@ -7,10 +7,6 @@ permalink: /index.html
 
 ## Forside
 
-{% for n in site.nav %}
-  <li><a href="{{ n.permalink }}"></li>
-{% endfor %}
-
 Siden formål er at lære markdown
 
 > mark down
@@ -22,3 +18,6 @@ Siden formål er at lære markdown
 ```
 
 Dette er et link [Link her](google.com)
+
+
+#include "footer.md"

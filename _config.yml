@@ -15,5 +15,5 @@ output:
     toc: true
     toc_float: true
     include:
-      after_body: footer.html
+      after_section: footer.html
     css: styles.css

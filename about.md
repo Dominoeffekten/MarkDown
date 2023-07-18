@@ -2,8 +2,8 @@
 permalink: /about.html
 ---
 
+<section>
 # Dominoeffekten
-
 
 ## JavaScript
 
@@ -14,3 +14,5 @@ permalink: /about.html
 ```
 
 Dette er et link [Link her](google.com)
+
+</section>
