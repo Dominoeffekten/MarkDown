@@ -7,9 +7,9 @@ url: https://Dominoeffekten.github.io  # the base hostname and protocol for your
 navbar:
   title: "Dominoeffektens"
   left:
-    - text: "Forside"
+    - page: "Forside"
       permalink: index.html
-    - text: "Om mig"
+    - page: "Om mig"
       permalink: about.html
       
 output: 
